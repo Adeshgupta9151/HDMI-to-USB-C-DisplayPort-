@@ -25,8 +25,7 @@ All the files are attached in the repository folder.
 
 ## PCB Layout
 
-![PCB Layout](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/Layout.png)
-
+![PCB Layout](https://github.com/Adeshgupta9151/HDMI-to-USB-C-DisplayPort-/blob/e317caa6bce0ef2cb447b521b0b021c096dbee9d/Kicad/Images/Layout.png)
 ---
 
 ## 3D View
