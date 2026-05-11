@@ -19,7 +19,7 @@ The version used for this project is **KiCad 9.0.7**.
 All the files are attached in the repository folder.
 
 ## Schematic
-
+![Schematic](https://github.com/Adeshgupta9151/HDMI-to-USB-C-DisplayPort-/blob/7ce97937d4deeb94c30101a7797616827046da5a/Kicad/Images/Root%20Schematic.png)
 
 ---
 
