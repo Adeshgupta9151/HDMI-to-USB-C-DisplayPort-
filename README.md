@@ -30,9 +30,8 @@ All the files are attached in the repository folder.
 
 ## 3D View
 
-### Top View
 
-![3D Top View](https://github.com/kumarveluru/PSoC-5-Stamp-Board/blob/main/Images/3D%20view%20Top.png)
+![3D View](https://github.com/Adeshgupta9151/HDMI-to-USB-C-DisplayPort-/blob/d64ccf0c2d5e332e54f03ea37d9d4286f3f8de8f/Kicad/Images/3D_View.png)
 
 
 ---
@@ -41,8 +40,8 @@ All the files are attached in the repository folder.
 
 | Parameter | Value    |
 |-----------|----------|
-| Width     | 31.26 mm |
-| Height    | 29.175 mm |
+| Width     | 35.40 mm |
+| Height    | 27.00 mm |
 
 ---
 
@@ -57,8 +56,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-V Kumar - V.Kumar@iiitb.ac.in  [GitHub Profile](https://github.com/kumarveluru)
-Project Link: [https://github.com/kumarveluru/PSoC-5-Stamp-Board](https://github.com/kumarveluru/PSoC-5-Stamp-Boar)
+Adesh Gupta - Adesh.Gupta@iiitb.ac.in  [GitHub Profile](https://github.com/Adeshgupta9151)
+Project Link: [https://github.com/Adeshgupta9151/HDMI-to-USB-C-DisplayPort-]
 
 
 
